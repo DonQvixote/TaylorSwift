@@ -23,7 +23,7 @@
 * [Gulps](https://github.com/FancyPixel/gulps): Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [Youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): Youtube iOS app template written in swift 3.Fully working video player, and animations.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): SoundCloud client written on Swift to integrate it easily with your apps.
-* [自学英语](https://github.com/6ag/EnglishCommunity-swift): 自学英语社区，使用Swift 2.2开发的一个英语学习社区APP，已上架[APP Store](https://itunes.apple.com/app/id1146271758)。
+* [自学英语社区](https://github.com/6ag/EnglishCommunity-swift): 自学英语社区，使用Swift 2.2开发的一个英语学习社区APP，已上架[APP Store](https://itunes.apple.com/app/id1146271758)。
 * [Gank 干货-集中营](https://github.com/teddylong/iOSGank): Gank.io iOS 客户端 http://gank.applinzi.com
 * [Floral](https://github.com/SunLiner/Floral): swift2.2完整实战项目 http://www.jianshu.com/p/2893be49c50e
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift): An iOS client written in Swift for V2EX
@@ -40,5 +40,11 @@
 * [LoveFreshBee](https://github.com/ZhongTaoTian/LoveFreshBeen): 爱鲜蜂 By Swift 2.0
 * [PinGo](https://github.com/gaowanli/PinGo): 纯Swift编写的仿“随遇”APP
 * [WBBaiSiDemo](https://github.com/chatwyn/WBBaiSiDemo): 百思不得姐 Swift版
+* [ifanr](https://github.com/iCodeForever/ifanr): 高仿爱范儿3.0
+* [单糖](https://github.com/hrscy/DanTang): Swift开源项目-模仿[单糖](https://itunes.apple.com/cn/app/id1021442122).良品生活指南：家居零食、礼物美妆、海淘购物
+* [礼物说](https://github.com/HHuiHao/liwushuo): 高仿礼物说
+* [SZChoosePictrue](https://github.com/sanzhong538/SZChoosePictrue): 用Swift写的100多行代码的拼图小游戏
+* [himbo](https://github.com/kimar/himbo): A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
+* [看知乎](https://github.com/sheepy1/SelectionOfZhihu): 『看知乎』iOS客户端
 
 
