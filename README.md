@@ -23,6 +23,22 @@
 * [Gulps](https://github.com/FancyPixel/gulps): Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [Youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): Youtube iOS app template written in swift 3.Fully working video player, and animations.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): SoundCloud client written on Swift to integrate it easily with your apps.
-* 
+* [自学英语](https://github.com/6ag/EnglishCommunity-swift): 自学英语社区，使用Swift 2.2开发的一个英语学习社区APP，已上架[APP Store](https://itunes.apple.com/app/id1146271758)。
+* [Gank 干货-集中营](https://github.com/teddylong/iOSGank): Gank.io iOS 客户端 http://gank.applinzi.com
+* [Floral](https://github.com/SunLiner/Floral): swift2.2完整实战项目 http://www.jianshu.com/p/2893be49c50e
+* [V2ex-Swift](https://github.com/Finb/V2ex-Swift): An iOS client written in Swift for V2EX
+* [Potatso](https://github.com/shadowsocks/Potatso): Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
+* [iFanfou](https://github.com/GesanTung/iFanfou): Swift版 iOS饭否客户端
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather): SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language.
+* [DXDoctor](https://github.com/iostalks/DXDoctor): 模仿丁香园产品「丁香医生」5.0 Swift 版
+* [edhita](https://github.com/tnantoka/edhita): Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
+* [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0): 根据 https://github.com/izzyleung/ZhihuDailyPurify/wiki/知乎日报-API-分析 提供的API制作的知乎日报Swift精仿iOS客户端
+* [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus): CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
+* [EyepetizerApp](https://github.com/lyimin/EyepetizerApp): 高仿开眼
+* [Swift-BanTang](https://github.com/jiachenmu/Swift-BanTang): 这个开源项目为[半糖](http://www.ibantang.com),类似于美丽说，一款电商App
+* [SmallDay](https://github.com/ZhongTaoTian/SmallDay): 高仿小日子 By Swift 2.0
+* [LoveFreshBee](https://github.com/ZhongTaoTian/LoveFreshBeen): 爱鲜蜂 By Swift 2.0
+* [PinGo](https://github.com/gaowanli/PinGo): 纯Swift编写的仿“随遇”APP
+* [WBBaiSiDemo](https://github.com/chatwyn/WBBaiSiDemo): 百思不得姐 Swift版
 
 
