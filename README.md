@@ -46,5 +46,18 @@
 * [SZChoosePictrue](https://github.com/sanzhong538/SZChoosePictrue): 用Swift写的100多行代码的拼图小游戏
 * [himbo](https://github.com/kimar/himbo): A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
 * [看知乎](https://github.com/sheepy1/SelectionOfZhihu): 『看知乎』iOS客户端
+* [WaterMark](https://github.com/Lafree317/WaterMark/tree/master/Resouce): Swift重写添加水印
+* [TodayNews](https://github.com/hrscy/TodayNews): Swift开源项目-模仿今日头条 http://www.codedata.cn/cdetail/Swift/CollectionView/1471514673634279
+* [Swift迷](https://github.com/swiftmi/swiftmi-app): swiftmi.com APP版本 采用Swift实现
+* [SimpleMemo](https://github.com/likumb/SimpleMemo): 已上架应用“易便签”的源代码
+* [Phonetic](https://github.com/iAugux/Phonetic): An iOS App to Generate phonetic keys for your Chinese contacts. Written in Swift.
+* [RealmVideo](https://github.com/BalestraPatrick/RealmVideo): An iOS app to watch Realm videos and slides on your phone.
+* [Swift-ZhihuDaily](https://github.com/jxd001/Swift-ZhihuDaily): Swift版知乎日报
+* [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift and powered by Forecast.io
+* [iBBS-Swfit](https://github.com/iAugux/iBBS-Swift): A BBS client in Swift.
+* [JokeClient-Swift](https://github.com/YANGReal/JokeClient-Swift): 用糗事百科的API简单做了一个糗百客户端,可以浏览各种段子,浏览搞笑图片,查看精彩评论等.
+* [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift): 百度FM swift语言实现
+* [the-oakland-post](https://github.com/aclissold/The-Oakland-Post): The Oakland Post iOS app, written in pure Swift http://www.oaklandpostonline.com
+* [XHNewsParsingSwift](https://github.com/xhzengAIB/XHNewsParsingSwift): XHNewsParsing is sina news client, use swift.
 
 
