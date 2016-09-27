@@ -25,7 +25,7 @@
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): SoundCloud client written on Swift to integrate it easily with your apps.
 * [自学英语社区](https://github.com/6ag/EnglishCommunity-swift): 自学英语社区，使用Swift 2.2开发的一个英语学习社区APP，已上架[APP Store](https://itunes.apple.com/app/id1146271758)。
 * [Gank 干货-集中营](https://github.com/teddylong/iOSGank): Gank.io iOS 客户端 http://gank.applinzi.com
-* [Floral](https://github.com/SunLiner/Floral): swift2.2完整实战项目 http://www.jianshu.com/p/2893be49c50e
+* [Floral](https://github.com/SunLiner/Floral): swift2.2完整实战项目花田小憩 http://www.jianshu.com/p/2893be49c50e
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift): An iOS client written in Swift for V2EX
 * [Potatso](https://github.com/shadowsocks/Potatso): Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 * [iFanfou](https://github.com/GesanTung/iFanfou): Swift版 iOS饭否客户端
@@ -59,5 +59,10 @@
 * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift): 百度FM swift语言实现
 * [the-oakland-post](https://github.com/aclissold/The-Oakland-Post): The Oakland Post iOS app, written in pure Swift http://www.oaklandpostonline.com
 * [XHNewsParsingSwift](https://github.com/xhzengAIB/XHNewsParsingSwift): XHNewsParsing is sina news client, use swift.
-
+* [RaceMe](https://github.com/enochng1/RaceMe): RaceMe is a run tracking + ghosting iOS mobile application.
+* [FamilyEducationApp](https://github.com/mgoofyy/FamilyEducationApp/): 家教应用.
+* [beautifulAPP](https://github.com/lyimin/beautifulApp): 高仿最美应用.
+* [XiangHa](https://github.com/hy598786682/XiangHa): Swift版高仿香哈菜谱.
+* [JOYJianshu](https://github.com/Wl201314/JoyDemo/tree/master/JOYJianshu): 简书应用仿写
+* [PDD](https://github.com/zhouleiyinping/PDD): 高仿拼多多
 
