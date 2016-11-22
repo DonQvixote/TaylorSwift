@@ -65,4 +65,21 @@
 * [XiangHa](https://github.com/hy598786682/XiangHa): Swift版高仿香哈菜谱.
 * [JOYJianshu](https://github.com/Wl201314/JoyDemo/tree/master/JOYJianshu): 简书应用仿写
 * [PDD](https://github.com/zhouleiyinping/PDD): 高仿拼多多
+* [Swift-PM25](https://github.com/ameizi/Swift-PM25): 一个基于Swift实现的PM2.5查询示例
+* [Live](https://github.com/ltebean/Live): This project is to demonstrate how to build a live broadcast app. 
+* [SmartCost](https://github.com/hepeguo/SmartCost): 一个极简的生活消费记录应用
+* [逗视](https://github.com/doushiDev/ds_ios): 逗视iOS客户端, 支持iPhone，iPad最新版本1.2.3
+* [IT江湖](https://github.com/itjhDev/itjh): [IT江湖](http://www.itjh.net/)，每一个IT人的江湖。IT江湖iOS是一个开源的项目，Swift编写
+* [Tuan](https://github.com/aiqiuqiu/Tuan): 模仿MJ老师ipad版美团（swift版)
+* [LiuAGeIOS](https://github.com/6ag/LiuAGeIOS): swift写的六阿哥网iOS版，已经上架
+* [BaoKanIOS](https://github.com/6ag/BaoKanIOS): 使用Swift编写的资讯新闻类app，数据来自 爆侃网文,已经上架
+* [BidHub-iOS](https://github.com/HubSpot/BidHub-iOS): iOS client for BidHub, our open-source silent auction app.
+* [WaniKani-iOS](https://github.com/haawa799/WaniKani-iOS): WaniKani iOS client
+* [HopperBus-iOS](https://github.com/TosinAF/HopperBus-iOS): iOS Timetable App for the University of Nottingham Hopper Bus.
+* [TheNews](https://github.com/TosinAF/TheNews): iOS Client for thenews.im in Swift
+* [Dropnote-iOS](https://github.com/Dropnote/Dropnote-iOS): Dropnote app for iOS. http://dropnote.today
+* [DYTV](https://github.com/coderLL/DYTV): 高仿 | 斗鱼TV | iOS
+* [Uther](https://github.com/callmewhy/Uther): Chat with the cute alien, help you make a memorandum!
+* [KonaBot-iOS](https://github.com/hkalexling/KonaBot-iOS): 💁 An unofficial iOS client for Konachan.net
+* [HardChoice](https://github.com/yulingtianxia/HardChoice): 有时候作抉择真的很痛苦，Swift写的生活类APP http://hardchoice.yulingtianxia.com
 
