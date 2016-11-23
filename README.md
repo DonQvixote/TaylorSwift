@@ -82,4 +82,50 @@
 * [Uther](https://github.com/callmewhy/Uther): Chat with the cute alien, help you make a memorandum!
 * [KonaBot-iOS](https://github.com/hkalexling/KonaBot-iOS): 💁 An unofficial iOS client for Konachan.net
 * [HardChoice](https://github.com/yulingtianxia/HardChoice): 有时候作抉择真的很痛苦，Swift写的生活类APP http://hardchoice.yulingtianxia.com
+* [喜马拉雅](https://github.com/LinXunFeng/LXFFM): 高仿喜马拉雅FM，基于Swift 3.0 编写而成,运行环境要求: Xcode 8.0
+* [VKMusic](https://github.com/yarodevuci/VKMusic): VKMusic App. Listen, Search and Download Music from VK
+* [ios-video-youtube-application](https://github.com/v2tmobile/ios-video-youtube-application): The best iOS Youtube Player https://itunes.apple.com/us/app/apple-store/id1086349582?pt=118052683&ct=github&mt=8
+* [Celluoid](https://github.com/100mango/Celluloid): The Best Photo Extension APP on iOS.
+* [ruby-china-ios](https://github.com/swordray/ruby-china-ios): Ruby China app for iOS https://itunes.apple.com/app/ruby-china/id999870130
+* [MRFoodComments](https://github.com/coderLL/MRFoodComments): 吃货点评,一款关于美食的App
+* [MUTiMiRecording](https://github.com/mutianyou1/MUTiMiRecording): 仿TIMI记账
+* [ZhihuDaily](https://github.com/kemchenj/ZhihuDaily): 练手项目，知乎日报
+* [qiongyou](https://github.com/TerryTangYing/qiongyou): 高仿穷游
+* [MJianshu](https://github.com/JackRenDeveloper/-): 高仿简书
+* [Spots-iOS](https://github.com/jacks205/Spots-iOS): University Parking App - iOS
+* [XituGold-iOS](https://github.com/unixzii/XituGold-iOS): 稀土掘金客户端 for iOS
+* [Gank.io-iOS](https://github.com/unixzii/Gank.io-iOS): A simple Gank.io client for iOS
+* [Intercambio](https://github.com/Internetslum/Intercambio): Jabber/XMPP Client for iOS https://itunes.apple.com/en/app/intercambio/id1087808025
+* [UmbrellaWeather](https://github.com/ZeroJian/UmbrellaWeather): UmbrellaWeather is an iOS weather app developed in Swift 2,The app simple local reminded umbrella features
+* [cf-apps-ios](https://github.com/Osis/cf-apps-ios): An iOS Client for Cloud Foundry https://cf-apps.cfapps.io
+* [BrewMobile](https://github.com/brewfactory/BrewMobile): iOS client for the Brewfactory project - brew your own beer http://brewfactory.org
+* [Swift-ZhiHu](https://github.com/NicholasTD07/Swift-ZHI): iOS ZhiHuDaily client, implemented in Swift.
+* [Metal-Flaps](https://github.com/haawa799/Metal-Flaps): Flappy bird done with Metal and swift
+* [popcorntime-ios](https://github.com/danylokostyshyn/popcorntime-ios): Version of PopcornTime app for iOS based on libtorrent and MobileVLCKit. There is still a lot of work to do, but in most cases it works.
+* [VPN.ht for iOS](https://github.com/VPNht/ios): VPN Client iOS https://vpn.ht/software
+* [Californication](https://github.com/vanyaland/Californication): California points of interest.
+* [ConvertCurrency](https://github.com/gkye/ConvertCurrency): An iOS app for converting currencies written in Swift3 😄
+* [FTChatMessage](https://github.com/liufengting/FTChatMessage): FTChatMessage, a chat message UI framework written in swift. Not quite finished.
+* [DouYuTVMutate](https://github.com/jasnig/DouYuTVMutate): 模仿斗鱼的部分简单页面, 部分使用RxSwift, MVVM, 直播的接口目前不可用, 所以直播部分已经删除
+* [baisiapp](https://github.com/ashen-zhao/baisiapp): 模仿百思不得姐App，视频，音乐，图片，自定义文本高度，不定期更新
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs): This is a Review posting app that let user find interesting places near them https://yalantis.com/
+* [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios): Source code for Pokemon Weakness iOS application 🚀 https://pokeweak.github.io
+* [GoDex](https://github.com/EPICmynamesBG/GoDex): a companion to PokemonGo that allows players to find where certain pokemon can be found
+* [Pokegear-GO](https://github.com/Juice805/Pokegear-GO): A standalone Pokemon GO scanner for iOS
+* [PokeMap-iOS](https://github.com/PokeMapCommunity/PokeMap-iOS): Pokemon Go Map for iOS with Local Notifications
+* [HXCurrencyConversion](https://github.com/huangxuan518/HXCurrencyConversion): 货币转换器 演示地址:https://appetize.io/app/8q9p3qhefm2tz7xr6ec2n73azw
+* [爱评](http://git.oschina.net/hengchengfei/eval): 爱评 App，国内首个公司评价类APP，让您更深入的了解一个公司。
+* [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS): iBurn is an offline map and guide for the Burning Man art festival. http://www.iburnapp.com
+* [Charter](https://github.com/matthewpalmer/Charter): A Swift mailing list client for iPhone and iPad
+* [LastCircle](https://github.com/vulgur/LastCircle): A simple game developed by Swift https://itunes.apple.com/us/app/last-circle/id1065436363?ls=1&mt=8
+* [Sources](https://github.com/vulgur/Sources): Sources is a simplified github client for reading the source code easily and comfortably. http://itunes.apple.com/app/id1125732186
+* [OneHourWalker](https://github.com/appcoda/OneHourWalker): OneHourWalker for iOS - a HealthKit demo http://www.appcoda.com/healthkit-introduction/
+* [Social-Go](https://github.com/kingreza/Social-Go): Social Go is a crowd sourced Pokemon radar and anonymous chat app for the iOS. https://itunes.apple.com/us/app/social-go-social-app-for-pokemon/id1136129726?ls=1&mt=8
+* [EvoRadio](https://github.com/SongJiaqiang/EvoRadio): EvoRadio是一款音乐app，内容主要以场景、环境来给音乐分类，以歌单的形式提供给用户。 
+* [KeepAccounts](https://github.com/Jerrylingit/KeepAccounts): KeepAccounts是一款工具类的App，提供了最基本的记账功能，所有账目都可以用饼状图或者折线图来显示。图片的素材均来自TIMI记账。
+* [EventBlankApp](https://github.com/icanzilb/EventBlankApp): A free open source iOS app for events or conferences. Read more on the app's webpage: http://www.eventblankapp.com/
+* [Antidote](https://github.com/Antidote-for-Tox/Antidote): Tox client for iOS https://antidote.im
+* [FoodTravel](https://github.com/angelorlover/FoodTravel): 美食家——你的美食收藏小站,App Store : https://itunes.apple.com/us/developer/zhangyong-wu/id1107535030
+* [Screenshotter](https://github.com/LaunchKit/screenshotter): Source code for the iOS app Screenshotter, on the App Store
+* [Recordari-iOS](https://github.com/BrunoBernardino/Recordari-iOS): XCode project with Swift code for the Recordari iOS app http://recordari.net
 
