@@ -128,4 +128,27 @@
 * [FoodTravel](https://github.com/angelorlover/FoodTravel): 美食家——你的美食收藏小站,App Store : https://itunes.apple.com/us/developer/zhangyong-wu/id1107535030
 * [Screenshotter](https://github.com/LaunchKit/screenshotter): Source code for the iOS app Screenshotter, on the App Store
 * [Recordari-iOS](https://github.com/BrunoBernardino/Recordari-iOS): XCode project with Swift code for the Recordari iOS app http://recordari.net
+* [DownTube](https://github.com/MrAdamBoyd/DownTube): Lightweight YouTube Downloader for iOS
+* [RxTodo](https://github.com/devxoul/RxTodo): iOS Todo Application with RxSwift + MVVM
+* [Mr-Ride-iOS](https://github.com/wuhduhren/Mr-Ride-iOS): an App for Bicycle Rider to Improve Him/Herself to the Next Level.
+* [Classmere for iOS](https://github.com/classmere/ios): The Swift iOS app for a mobile presence on iPhone
+* [JCYouku](https://github.com/HJaycee/JCYouku): 用Swift仿写的优酷客户端
+* [SublimeCode](https://github.com/Urinx/SublimeCode): 一个代码阅读应用 - iOS
+* [Vu](https://github.com/Urinx/Vu): 唯舞 - 街舞视频 iOS App
+* [UberGuide-iOS](https://github.com/hACKbUSTER/UberGuide-iOS): 🏰Third Prize for Uber Hackathon China 2016. Source code for iOS client of UberGuide Project. 用Uber API 让背包客通过Uber探索新的城市和文化。
+* [FoodPin](https://github.com/ameizi/FoodPin): 用Swift写的一个简单的App http://aimeizi.net
+* [Kraftstoff](https://github.com/IngmarStein/Kraftstoff): An iOS app to track your fuel economy. https://ingmarstein.github.io/Kraftstoff/
+* [Poppins](https://github.com/thoughtbot/poppins): Poppins is the most convenient place to house all your favorite GIFs and easily share them with your friends and family.
+* [Weave4messenger](https://github.com/rshev/Weave4messenger): Weave for Messenger app, available on the App Store. https://www.facebook.com/weave4messenger
+* [Hidden---Touch-ID-Notepad](https://github.com/lubieapki/Hidden---Touch-ID-Notepad): Hide and secure all your notes from strangers with a Touch ID and password lock in the Hidden app. https://itunes.apple.com/us/app/hidden-touch-id-notepad/id1031049690?mt=8
+* [Endurance](https://github.com/barna941/Endurance): A sport tracker application for iOS with Apple Watch support.
+* [SwiftBreadUI](https://git.oschina.net/arui1995/SwiftBreadUI): swift版面包旅行界面, 文字自适应.
+* [BallDown](https://github.com/pop2ones/BallDown): A full game on the Appstore - [No One Gets 100](https://itunes.apple.com/app/id1020929059?mt=8)
+* [ReviewTime](https://github.com/nthegedus/ReviewTime): Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime (http://appreviewtimes.com/).
+* [Birdie-Guess](https://github.com/endodoug/Birdie-Guess): First Swift Code Game - Because it Totally Rules.
+* [Adios](https://github.com/ArmandGrillet/Adios): An ad blocker for iOS working with EasyList rules. http://armand.gr/adios
+* [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Voice Memos is an audio recorder App for iPhone and iPad that covers some of the new technologies and APIs introduced in iOS 8 written in Swift.
+* [more-than-today](https://github.com/assafgelber/more-than-today): A better iOS calendar today widget - https://itunes.apple.com/app/id1018303539
+* [mnswpr](https://github.com/jonathontoon/mnswpr): A simple Minesweeper clone written using SpriteKit. Available now on the App Store. https://itunes.apple.com/us/app/mnswpr/id1043997771?mt=8
+* [RaceRunner](https://github.com/vermont42/RaceRunner): RaceRunner is a run-tracking app focused on racing.
 
