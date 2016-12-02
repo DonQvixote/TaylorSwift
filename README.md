@@ -151,4 +151,36 @@
 * [more-than-today](https://github.com/assafgelber/more-than-today): A better iOS calendar today widget - https://itunes.apple.com/app/id1018303539
 * [mnswpr](https://github.com/jonathontoon/mnswpr): A simple Minesweeper clone written using SpriteKit. Available now on the App Store. https://itunes.apple.com/us/app/mnswpr/id1043997771?mt=8
 * [RaceRunner](https://github.com/vermont42/RaceRunner): RaceRunner is a run-tracking app focused on racing.
+* [ello-ios](https://github.com/ello/ello-ios): Ello's open source iOS app.https://ello.co
+* [News-master](https://github.com/JackRenDeveloper/News-master): 仿知乎日报的简单新闻客户端——适合Swift新手入门
+* [v2ex](https://github.com/ellipse43/v2ex): A simple v2ex iOS client
+* [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap): WeatherMap combines weather info with map display. You can view the ongoing weather change of an entire region in one scroll! A tool designed for those of you who road-trip or travel around often. https://itunes.apple.com/us/app/weather-map-take-five-interactive/id990141529?mt=8
+* [spi](https://github.com/guoc/spi): SPi 双拼输入法 for iPhone http://spiim.com/
+* [Pong](https://github.com/jtayler/Pong): A Simple Pong Game in Swift and SpriteKit for iOS and Apple TV.https://itunes.apple.com/us/app/paddles!-pong-edition/id1067049945
+* [FizzBuzzGame](https://github.com/yvettecook/FizzBuzzGame): Practising TDD swift, building a FizzBuzz game
+* [MahjongLeh](https://github.com/lubieapki/MahjongLeh): Multi-device Singapore Mahjong on iOS.
+* [MMGooglePlayNewsStand](https://github.com/mukyasa/MMGooglePlayNewsStand): To Simulate iOS Google Play NewsStand app
+* [Tweetometer](https://github.com/BalestraPatrick/Tweetometer): An app to see who is tweeting in your timeline.
+* [Courir](https://github.com/LesCoureurs/Courir): Epic multiplayer endless runner on iOS
+* [WiBlaze](https://github.com/revblaze/WiBlaze): The open source web browser based on speed and durability.
+* [OhMyPlane](https://github.com/softdevstory/OhMyPlane): My first 2D game app for iOS, tvOS
+* [Code-Master](https://github.com/revblaze/Code-Master): The most downloaded code editor on the App Store
+* [Waker](https://github.com/JackyChiu/Waker): A smart alarm clock *On hold*
+* [Chaty](https://github.com/LunarFlash/Chaty): Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching
+* [upupu](https://github.com/xcoo/upupu): Simple camera application for iOS that uploads pictures to WebDAV server or Dropbox quickly. Available on the AppStore. https://itunes.apple.com/app/upupu/id508401854
+* [copyFlippboard](https://github.com/cryuhy/copyFlippboard): 这个项目是我用来做swift的练手项目，主体是仿照android 三星版的flippboard，里面运用到了多线程异步加载图片，sectionHeaderView自定义，和push动画自定义。包含了sectionHeader的顶部悬停.只用到一个fxblurview的第三方库效果还是很不错的,xcode最好更新到最新版本因为swift有7.3有更新的api
+* [Material](https://github.com/CosmicMind/Material): Material is an animation and graphics framework that is used to create beautiful applications. http://materialswift.com
+* [Fusuma](https://github.com/ytakzk/Fusuma): Instagram-like photo browser and a camera feature with a few line of code in Swift.
+* [RainReminder](https://github.com/ChaosTong/RainReminder): SwiftWeather--简洁的Swift天气应用 https://itunes.apple.com/us/app/rainreminder/id1102738128?l=zh&ls=1&mt=8
+* [zhufu_swift](http://git.oschina.net/dengwei1999/zhufu_swift): 送祝福短信大全是一款逢年过节方便发送祝福信息的软件。
+* [远程下载助手](https://github.com/venj/Remote-Helper): 一个简单的远程下载客户端
+* [PilesSugar](https://github.com/cornerAnt/PilesSugar): 初学者,Swift高仿了堆糖,下面是各个界面的详细图
+* [HackerNews](https://github.com/amitburst/HackerNews): A Hacker News reader iOS app written in Swift.
+* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U): Well architected RSS reader app written in Swift.
+* [MomentsLocation](https://github.com/jakciehoo/MomensLocation): 2014年swift刚出来那会儿写的一个小程序《丁丁出行记（momentsLocation）》
+* [NewsApp](https://github.com/SmallLang/NewsApp): 用swift写的ios高仿网易新闻客户端
+* [peerflix-ios](https://github.com/siuying/peerflix-ios): Streaming torrent client for iOS
+* [Whalebird](https://github.com/h3poteto/Whalebird): Twitter client for iOS http://whalebird.org/
+* [SwiftGG](https://github.com/OpenMarshall/SwiftGG): SwiftGG 网站的 iOS 客户端，简单收纳了网站里面的归档文章，方便大家浏览。
+* [Coderpursue](https://github.com/wenghengcong/Coderpursue): Github client for iOS in Swift. https://itunes.apple.com/cn/app/coderpursue/id1094338006?l=en&mt=8
 
