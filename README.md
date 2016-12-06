@@ -49,7 +49,7 @@
 * [WaterMark](https://github.com/Lafree317/WaterMark/tree/master/Resouce): Swift重写添加水印
 * [TodayNews](https://github.com/hrscy/TodayNews): Swift开源项目-模仿今日头条 http://www.codedata.cn/cdetail/Swift/CollectionView/1471514673634279
 * [Swift迷](https://github.com/swiftmi/swiftmi-app): swiftmi.com APP版本 采用Swift实现
-* [SimpleMemo](https://github.com/likumb/SimpleMemo): 已上架应用“易便签”的源代码
+* [SimpleMemo](https://github.com/lijuncode/SimpleMemo): 已上架应用“易便签”的源代码
 * [Phonetic](https://github.com/iAugux/Phonetic): An iOS App to Generate phonetic keys for your Chinese contacts. Written in Swift.
 * [RealmVideo](https://github.com/BalestraPatrick/RealmVideo): An iOS app to watch Realm videos and slides on your phone.
 * [Swift-ZhihuDaily](https://github.com/jxd001/Swift-ZhihuDaily): Swift版知乎日报
@@ -183,4 +183,43 @@
 * [Whalebird](https://github.com/h3poteto/Whalebird): Twitter client for iOS http://whalebird.org/
 * [SwiftGG](https://github.com/OpenMarshall/SwiftGG): SwiftGG 网站的 iOS 客户端，简单收纳了网站里面的归档文章，方便大家浏览。
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue): Github client for iOS in Swift. https://itunes.apple.com/cn/app/coderpursue/id1094338006?l=en&mt=8
+* [Gank.lu](https://github.com/Panl/Gank.lu): Gank.io client for iOS
+* [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS): An iOS client for Hacker News
+* [We Build SG](https://github.com/webuildsg/iOS): iOS client for https://webuild.sg/.Download from the [App Store](https://itunes.apple.com/us/app/we-build-sg/id1089421487?mt=8)!
+* [iOS-OctoPodium](https://github.com/nunogoncalves/iOS-OctoPodium): Discover your Github ranking based on your repositories' stars
+* [CI2Go](https://github.com/ngs/ci2go): CI2Go is a [CircleCI](https://circleci.com/) client for iOS.
+* [Codinator](https://github.com/DanilaVladi/codinator): Web development IDE for iOS https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8
+* [valio](https://github.com/soffes/valio): Valio Con 2014 Schedule http://valiocon.com
+* [trySwiftApp](https://github.com/tryswift/trySwiftApp): try! Swift Conference APP https://itunes.apple.com/us/app/try!/id1083944488?mt=8
+* [WWDC](https://github.com/genadyo/WWDC): Open sourcing WWDC hit parties app https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8
+* [break.](https://github.com/aclissold/break.): A minimalistic iOS app for typing break reminders
+* [Round & Split](https://github.com/lukhnos/roundandsplit): A tip calculator for iOS (in Swift)
+* [Swift36KrNews](https://github.com/hongwanli/Swift36KrNews): 1.36Kr订阅新闻客户端Swift
+* [kaiyan-swift](https://github.com/juvham/kaiyan-swift): 仿开眼swift版本
+* [Depressed](https://github.com/DerLobi/Depressed): Swift iOS app that tests if you are depressed
+* [Savings Assistant](https://github.com/chrisamanse/savings-assistant): Savings Assistant is an iOS app that helps you keep track of your expenses. No external accounts needed.
+* [Buck Tracker](https://github.com/hkalexling/Buck_Tracker): 💰 An iOS expense tracker app written in Swift
+* [Hackers](https://github.com/weiran/Hackers): Hackers is an elegant iOS app for reading Hacker News links and comments. Written in Swift. http://weiran.co/hackers
+* [Prey](https://github.com/prey/prey-ios-client): iOS client for the Prey anti-theft software. http://preyproject.com
+* [Kiwix for iOS](https://github.com/kiwix/iOS): Kiwix for iOS is an offline reader for wikipedia.
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios): 📱 🎥 A powerful and completely customizable media player for iOS http://mobileplayer.io
+* [Cannonball for iOS](https://github.com/twitterdev/cannonball-ios): Cannonball is the fun way to create and share stories and poems on your phone. This app uses all the features of Fabric for iOS. http://cannonballapp.io
+* [eigen](https://github.com/artsy/eigen): The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app. http://iphone.artsy.net
+* [HQPhotoLock](https://github.com/Quanhua-Guan/HQPhotoLock): 安全图片保险箱
+* [Todo](https://github.com/JakeLin/Todo): A todo list app written in Swift
+* [Digipost for iOS](https://github.com/digipost/ios): Digipost是一个数字邮箱，能接收，读取，处理和存储数字邮件。使用Swift开发.
+* [Mattermost iOS Application](https://github.com/mattermost/ios): Mattermost iOS application source code http://mattermost.org
+* [RioBus](https://github.com/RioBus/ios): iOS app for Rio de Janeiro bus geolocation http://riob.us
+* [LegendRadio](https://github.com/naoyashiga/LegendRadio): 日本人开发的视频客户端, 可以看YouTube视频。用Swift开发。
+* [UmartNews](https://github.com/naoyashiga/UmartNews): 日本人开发的新闻阅读器。用Swift开发.
+* [Cats For Instagram 😻](https://github.com/naoyashiga/CatsForInstagram): Cats make me happy. 😻 💝https://itunes.apple.com/us/app/cats-for-instagram-free/id1031396732
+* [Locative for iOS](https://github.com/LocativeHQ/Locative-iOS): The Locative iOS app. Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
+* [GanHuoCode](https://github.com/tripleCC/GanHuoCode): A third client for gank http://gank.io/
+* [Awful](https://github.com/Awful/Awful.app): [Awful](https://itunes.apple.com/app/awful-unofficial-something/id567936609) is an iOS 9 app that's Better Than Safari for browsing the [Something Awful Forums](https://github.com/Awful/Awful.app/blob/master/Source/Forums).
+* [Frameless](https://github.com/stakes/Frameless): A chromeless web browser for viewing prototypes.
+* [Brave iOS Browser](https://github.com/brave/browser-ios): Brave is based on Firefox iOS,https://www.brave.com/
+* [iContactU](https://github.com/rizal72/iContactU): Swift iOS App: reminds you to contact people you ought to.https://itunes.apple.com/us/app/icontactu/id920200100?l=it&ls=1&mt=8
+* [breadwallet](https://github.com/voisine/breadwallet): breadwallet - bitcoin wallet http://breadwallet.com
+* [Tropos](https://github.com/thoughtbot/Tropos): Weather and Forecasts for Humans http://troposweather.com
+* [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS): ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. https://chatsecure.org
 
