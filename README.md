@@ -222,4 +222,13 @@
 * [breadwallet](https://github.com/voisine/breadwallet): breadwallet - bitcoin wallet http://breadwallet.com
 * [Tropos](https://github.com/thoughtbot/Tropos): Weather and Forecasts for Humans http://troposweather.com
 * [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS): ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. https://chatsecure.org
+* [VRDemo](https://github.com/Huanhoo/VRDemo-Swift): VRDemo是用Swift配合OpenGL ES实现的360度全景播放器
+* [QQMusic](https://git.oschina.net/null_248_6948/QQMusic): QQ音乐的界面的效果及主要炫酷功能实现
+* [QQZone](https://git.oschina.net/null_248_6948/QQZone): qq的登录界面以及qq空间首页的展示及业务处理逻辑
+* [Standard Notes](https://github.com/standardnotes/iOS): A Standard Notes iOS client | https://standardnotes.org
+* [Quick Chat for iOS](https://github.com/aslanyanhaik/Quick-Chat): Real time chat app written in Swift 3 using Firebase
+* [PandaTV](https://github.com/VictDog/PandaTV): Swift3.0之熊猫TV
+* [MGDYZB](https://github.com/LYM-mg/MGDYZB): Xcode8以下版本 斗鱼- 每个人的直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务,包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种..
+* [Evil Insult Generator iOS App](https://github.com/EvilInsultGenerator/ios): Evil Insult Generator iOS App https://evilinsult.com/
+* [XJDomainLive](https://github.com/lishengbing/XJDomainLive): 直播XJLive
 
