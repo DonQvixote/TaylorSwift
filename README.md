@@ -27,7 +27,6 @@
 * [Gank 干货-集中营](https://github.com/teddylong/iOSGank): Gank.io iOS 客户端 http://gank.applinzi.com
 * [Floral](https://github.com/SunLiner/Floral): swift2.2完整实战项目花田小憩 http://www.jianshu.com/p/2893be49c50e
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift): An iOS client written in Swift for V2EX
-* [Potatso](https://github.com/shadowsocks/Potatso): Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 * [iFanfou](https://github.com/GesanTung/iFanfou): Swift版 iOS饭否客户端
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather): SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language.
 * [DXDoctor](https://github.com/iostalks/DXDoctor): 模仿丁香园产品「丁香医生」5.0 Swift 版
@@ -231,4 +230,6 @@
 * [MGDYZB](https://github.com/LYM-mg/MGDYZB): Xcode8以下版本 斗鱼- 每个人的直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务,包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种..
 * [Evil Insult Generator iOS App](https://github.com/EvilInsultGenerator/ios): Evil Insult Generator iOS App https://evilinsult.com/
 * [XJDomainLive](https://github.com/lishengbing/XJDomainLive): 直播XJLive
+* [LXFWeChat](https://git.oschina.net/coderlxf/LXFWeChat): Swift 3.0 高仿微信
+* [TodayMind](https://github.com/cyanzhong/TodayMind): TodayMind是一个非常小的项目，提供了直接在通知中心管理提醒事项的神奇能力 https://itunes.apple.com/app/id1207158665
 
