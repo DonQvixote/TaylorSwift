@@ -232,4 +232,7 @@
 * [XJDomainLive](https://github.com/lishengbing/XJDomainLive): 直播XJLive
 * [LXFWeChat](https://git.oschina.net/coderlxf/LXFWeChat): Swift 3.0 高仿微信
 * [TodayMind](https://github.com/cyanzhong/TodayMind): TodayMind是一个非常小的项目，提供了直接在通知中心管理提醒事项的神奇能力 https://itunes.apple.com/app/id1207158665
+* [photostream](https://github.com/mownier/photostream): A photo sharing iOS app that uses Firebase and is being driven by VIPER architecture.
+* [5calls](https://github.com/5calls/ios): iOS app for 5calls.org https://itunes.apple.com/us/app/5-calls/id1202558609?mt=8
+
 
